@@ -4,9 +4,17 @@
 
 Las expresiones regulares, también conocidas como regex, son patrones de búsqueda y manipulación de texto. Permiten encontrar ciertos patrones dentro de cadenas de texto, realizar reemplazos y validar formatos de datos. Son extremadamente útiles en la programación y en el procesamiento de texto en general.
 
+### Recursos
+Recursos utilizados para aprender más sobre expresiones regulares en JavaScript:
+- Documentación oficial de MDN: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp]
+
 ## ¿Cómo se usan en JavaScript?
 
 En JavaScript, las expresiones regulares se pueden crear utilizando el objeto `RegExp` o utilizando la notación literal `/.../`. A continuación se muestra un ejemplo básico de cómo utilizar expresiones regulares en diferentes contextos:
+
+### Recursos
+Recursos utilizados para aprender más sobre expresiones regulares en JavaScript:
+- Sitio Web de Regex101: [https://regex101.com/]
 
 ### Ejemplos de uso
 
@@ -31,10 +39,7 @@ En JavaScript, las expresiones regulares se pueden crear utilizando el objeto `R
 
 En este texto la expresion regular `/.../'se utiliza para buscar direcciones de correo electronico en el texto.
 
-## Recursos
-Recursos utilizados para aprender más sobre expresiones regulares en JavaScript:
-- Documentación oficial de MDN: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp]
-- Sitio Web de Regex101: [https://regex101.com/]
+
 
 ### Autor
 [NicolasFue05][https://github.com/NicolasFue05]
